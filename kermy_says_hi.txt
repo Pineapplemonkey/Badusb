@@ -1,0 +1,7 @@
+REM Kermy
+CTRL N
+CTRL T
+DELAY 100
+STRING https://docs.google.com/document/d/1pgtvgC2pQtBa_WL970DQL8Ju3nwKjhpSbPmb5BjEBhk
+DELAY 100
+ENTER
