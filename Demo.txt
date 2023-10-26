@@ -1,0 +1,7 @@
+REM my git repo
+CTRL N
+CTRL T
+DELAY 100
+STRING https://github.com/PinenappleMonkey/Badusb
+DELAY 100
+ENTER
