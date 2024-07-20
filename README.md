@@ -1,4 +1,4 @@
 # Badusb
 Some random bad USB scripts that I made. Enjoy?
 
-REMEMBER: Only use this with permission, and at your own risk
+REMEMBER: Only use this with permission OF THE DEVICE OWNER, and at your own risk. 
